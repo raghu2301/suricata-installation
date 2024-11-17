@@ -1,4 +1,4 @@
-# suricta-installation
+# suricata-installation
 ## Overview
 This repository contains steps/commands to install suricata on linux system properly
 ## Requirements
